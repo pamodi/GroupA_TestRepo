@@ -93,6 +93,7 @@ func calcRectangleValues(length, width float64) (float64, float64) {
 
 //Created by Tejaswi Cheripally - 500229934
 //This function will calculate the factorial of a number
+//new addition
 
 func factorial(n int) int {
 	result := 1
